@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kmodule xmlns="http://www.drools.org/xsd/kmodule">
+    <kbase name="mod1_base" includes="common_base">
+        <ksession name="mod1_session" type="stateless" />
+    </kbase>
+</kmodule>
